@@ -105,6 +105,6 @@
 
   <!-- RVIZ configured for tb3_0/1 -->
   <node pkg="rviz" type="rviz" name="rviz" required="true"
-         args="-d $(find turtlebot3_nps)/rviz/two_tb3_one_map.rviz"/>
+         args="-d $(find turtlebot3_nps)/rviz/two_tb3_one_map_twogoals.rviz"/>
   
 </launch>
